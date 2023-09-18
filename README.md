@@ -1,2 +1,3 @@
-# DiabetesDetection
-This project aim to analyse and detect Diabetes.
+# Data-Science-Projects
+analysis and prediction of diabetes using machine learning
+Zineeddine
